@@ -1,0 +1,5 @@
+entity_group,score,word,start,end
+PER,0.5707917,Elispot,719,727
+MISC,0.95578384,Epstein Barr Virus,1189,1208
+MISC,0.73964274,EBV,1210,1213
+LOC,0.5224571,I,1882,1884
