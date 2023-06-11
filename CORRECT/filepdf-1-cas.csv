@@ -1,0 +1,6 @@
+entity_group,score,word,start,end
+PER,0.9619344,S.A...,2,9
+LOC,0.62222004,Figure,655,661
+LOC,0.67910796,Figure,781,787
+PER,0.9608456,Delbet,1474,1481
+PER,0.97085637,Delbet,1600,1607

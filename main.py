@@ -1,7 +1,7 @@
 from Test import Test
 
 # Créer annotation
-# Test.test()
+Test.test()
 
 # Calculer métriques
-Test.metrics()
+# Test.metrics()
